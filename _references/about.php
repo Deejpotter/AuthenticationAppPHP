@@ -1,8 +1,8 @@
 <?php
 $fileLevel = "";
-$title = "Your personal web designer | Deej Potter";
-$description = "I'm a self taught web and game developer and I love what I do.";
-$link = "https://deejpotter.com";
+$title = "All about me | Deej Potter";
+$description = "Learn about my life and my work. I'm sure there will be something in here to entertain you.";
+$link = "https://deejpotter.comabout.php";
 $image = "https://deejpotter.com/images/DeejPotterLogo.png";
 include "templates/header.php"
 ?>
@@ -10,17 +10,17 @@ include "templates/header.php"
 <main id="main">
 
     <!-- Hero section -->
-    <section class="jumbotron jumbotron-fluid bg-primary text-dark my-0 shadow">
+    <section class="jumbotron jumbotron-fluid bg-primary text-dark my-0">
         <div class="container text-center">
-            <h1 class="">Authentication</h1>
-            <p class="">Create an account and you can do stuff.</p>
+            <h1 class="display-1">Deej Potter</h1>
+            <p class="lead">Technology is my thing.</p>
         </div>
     </section>
 
     <div class="container">
         <div class="row">
             <div class="col-sm">
-
+                
             </div>
         </div>
     </div>
