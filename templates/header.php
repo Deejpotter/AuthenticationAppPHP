@@ -34,6 +34,7 @@
     <!-- Main header for every page -->
     <nav class="navbar navbar-expand-sm shadow">
         <div class="container">
+
             <!-- Brand -->
             <a class="navbar-brand" href="/">
                 <img src="<?php echo $fileLevel ?>images/DeejPotterLogo.png">
@@ -52,5 +53,6 @@
                     </li>
                 </ul>
             </div>
+            
         </div>
     </nav>
