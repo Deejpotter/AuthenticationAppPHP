@@ -20,7 +20,7 @@ include "templates/header.php"
     <div class="container">
         <div class="row">
             <div class="col-sm">
-
+                <p>This is about authentication or something.</p>
             </div>
         </div>
     </div>
